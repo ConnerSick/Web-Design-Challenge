@@ -1,0 +1,87 @@
+html {
+    position: relative
+}
+
+
+body {
+    background-color: rgb(204, 200, 200);
+    margin-bottom: 150px;
+}
+
+/*Navbar*/
+.navbar-custom {
+    background-color: white;
+}
+
+#navbar-latitude {
+    height: 60px;
+    margin-left: 5px;
+    padding-top: 20px;
+    font-weight:bold;
+    background-color: rgb(54, 194, 180);
+    color: white;
+}
+
+.navbar-right-custom {
+    padding-top: 6px;
+    padding-right: 20px;
+}
+
+
+
+
+/*Main Content*/
+
+.landingpage-header {
+    color: rgb(54, 194, 180);
+    font-weight: bold;
+    margin-bottom: 33px;
+}
+
+.landingpage-maintext {
+    padding: 30px;
+    margin-top: 32px;
+    background-color: white;
+}
+
+.landingpage-maintext > p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    line-height: 30px;
+    color: slategray;
+  }
+  
+
+#landingpage-mainimage {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+#landingpage-imagesarea {
+    width: 100%;
+    padding: 30px 30px 43px;
+    margin-top: 32px;
+    background-color: white;
+}
+
+.landingpage-imagesheader {
+    font-weight: bold;
+    color: rgb(54, 194, 180);
+}
+
+.landingpage-images {
+    width: 140px;
+    height: 140px;
+  }
+  
+
+ .comparisonpage-header {
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(54, 194, 180);
+ } 
